@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+# GeminiProChat
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Minimal web UI for Gemini Pro Chat.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Live demo: [Gemini Pro Chat](https://www.geminiprochat.com)
+
+[![image](https://github.com/babaohuang/GeminiProChat/assets/559171/d02fd440-401a-410d-a112-4b10935624c6)](https://www.geminiprochat.com)
+
